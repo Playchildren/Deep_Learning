@@ -14,3 +14,9 @@
 
 ##### 第五课 — 序列模型：
 ###### 课程视频地址：https://www.bilibili.com/video/av66647398
+
+##### 课后选择题目汇总：
+###### 课后题目地址：https://www.kesci.com/mw/project/5e20243e2823a10036b542da
+
+##### 课后编程作业题目汇总：
+###### 课后作业地址：https://www.kesci.com/mw/project/5de4787aca27f8002c4c3661
